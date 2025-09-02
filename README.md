@@ -1,15 +1,26 @@
 # Ilogui
- This is a project where i am simplyfing using your ilo, by letting you control your ilo-servers via a graphical based gui.
- ## features
- * add multiples ilo's
- * saving and loading ilo credentials in a userfriendly way
- * power off and on your ilo
- * see hardware and firmware information
- ## upcoming features
- * encryption of your credentials (currently only saved plaintext!!!)
- * updating firmware from the gui.
- * viewing uptime
- * webhook inputs for monotoring of your server
- * accessing all ilo functions such as adding license keys, etc
-   # source
-   currently the source is closed for personal reasons, but I am planning on releasing the source 
+
+**Ilogui** is a project aimed at simplifying the management of your iLO (Integrated Lights-Out) servers by providing a graphical user interface (GUI) for control and monitoring.
+
+## ✨ Features
+
+- ✅ Add multiple iLO instances
+- ✅ Save and load iLO credentials in a user-friendly way
+- ✅ Power on/off your iLO servers
+- ✅ View hardware and firmware information
+
+## 🚧 Upcoming Features
+
+- 🔐 Encryption of stored credentials (currently saved in plaintext)
+- 📦 Firmware updates directly from the GUI
+- ⏱️ Uptime monitoring
+- 🔔 Webhook inputs for server monitoring
+- 🔧 Full access to iLO functions (e.g., license key management, user controls)
+
+## 📁 Source Code
+
+The source code is currently closed for personal reasons, but I plan to release it in the future.
+
+---
+
+> Feedback and suggestions are welcome!
